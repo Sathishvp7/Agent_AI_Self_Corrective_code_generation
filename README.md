@@ -2,6 +2,9 @@
 
 A sophisticated AI-powered code generation system that uses iterative error correction and reflection to produce working code solutions. Built with Streamlit, LangGraph, and OpenAI GPT-4o.
 
+![Uploading image.png…]()
+
+
 ## 🌟 Features
 
 - **Intelligent Code Generation**: Uses GPT-4o to generate code based on natural language descriptions
