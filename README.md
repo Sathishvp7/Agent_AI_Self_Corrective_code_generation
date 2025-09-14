@@ -4,6 +4,8 @@ A sophisticated AI-powered code generation system that uses iterative error corr
 
 <img width="1915" height="553" alt="image" src="https://github.com/user-attachments/assets/baf040a7-fcb3-4592-818d-22c4faf0235f" />
 
+LinkedIn Post - https://www.linkedin.com/pulse/building-self-reflecting-ai-agents-from-scratch-sathish-anantha-0uxec
+
 ## 🌟 Features
 
 - **Intelligent Code Generation**: Uses GPT-4o to generate code based on natural language descriptions
