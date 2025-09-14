@@ -2,8 +2,7 @@
 
 A sophisticated AI-powered code generation system that uses iterative error correction and reflection to produce working code solutions. Built with Streamlit, LangGraph, and OpenAI GPT-4o.
 
-![Uploading image.png…]()
-
+<img width="1915" height="553" alt="image" src="https://github.com/user-attachments/assets/baf040a7-fcb3-4592-818d-22c4faf0235f" />
 
 ## 🌟 Features
 
